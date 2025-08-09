@@ -42,7 +42,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href=""
+                href="/resume.pdf"
                 className="border-primary text-primary hover:bg-primary/10 rounded-full border px-6 py-2 transition-colors duration-300"
               >
                 Download Resume
