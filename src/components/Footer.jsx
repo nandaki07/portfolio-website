@@ -10,7 +10,7 @@ export const Footer = () => {
         reserved.{' '}
       </p>
       <a
-        href="hero"
+        href="#hero"
         className="bg-primary/10 hover:bg-primary/20 text-primary rounded-full p-2 transition-colors"
       >
         <ArrowUp size={20} />
